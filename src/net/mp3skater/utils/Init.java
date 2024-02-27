@@ -12,7 +12,7 @@ public class Init {
     public static void setPieces(ArrayList<Cell> cells) {
         // Adds the cells like in the file board.txt
         try {
-            File board = new File("res/board.txt");
+            File board = new File("res/board/board.txt");
             Scanner sc = new Scanner(board);
             int y = 0;
             while (sc.hasNextLine()) {
