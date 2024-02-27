@@ -14,11 +14,11 @@
 
 ## Features
 
---> Info: I created this game to challenge myself as I only used my prior projects and a online search of the rules.
+--> Info: I created this game to challenge myself, as I only used my prior projects and a online search of the rules.
 
 **Added Features:**
 
-- A (basicly) infinite map
+- A (basically) infinite map
 - Effizient code
 - Custom starting
 
