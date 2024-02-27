@@ -4,7 +4,7 @@ import net.mp3skater.cells.Cell;
 import net.mp3skater.io.KeyHandler;
 import net.mp3skater.io.Mouse;
 import net.mp3skater.utils.Board;
-import net.mp3skater.utils.Utils;
+import net.mp3skater.utils.Init;
 
 import javax.swing.*;
 import java.awt.*;
@@ -52,7 +52,7 @@ public class GamePanel extends JPanel implements Runnable {
 		this.setFocusable(true);
 
 		// Initialize Game
-		Utils.setPieces(cells);
+		Init.setPieces(cells);
 	}
 	public void launchGame() {
 		gameThread = new Thread(this);
