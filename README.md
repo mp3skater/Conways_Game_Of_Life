@@ -30,8 +30,6 @@
 
 [➜ For more details look the Wikipedia-page](https://github.com/Tschipcraft/more_mobs/wiki)
 
----
-
 Glider                                                                                                    |  Game paused
 :--------------------------------------------------------------------------------------------------------:|:-------------------------:
 <img src="res/images/Screenshot_0.png" width="370" height="356" style="image-rendering: pixelated"><br/>  |  <img src="res/images/Screenshot_1.png" width="370" height="356" style="image-rendering: pixelated"><br/>
@@ -45,8 +43,6 @@ To use your own starting board replace the file: "res/board/board.txt", everythi
 ### Latest Release
 
 Get the latest builds of GetOP [from the GitHub Releases](https://github.com/mp3skater/GetOP-mod-data/releases).
-
----
 
 ## License
 
