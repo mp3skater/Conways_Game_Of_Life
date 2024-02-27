@@ -6,7 +6,7 @@
 > A simple game that doesn't pose any restrictions to your creativity :)
 
 <details>
-<summary>What is the Game of Life?</summary>
+<summary>What is the Game of Life? (Youtube explenation)</summary>
 <a href="https://youtu.be/C2vgICfQawE">
 <img alt="Game of Life showcase thumbnail" width=50% src="https://img.youtube.com/vi/C2vgICfQawE/maxresdefault.jpg" title="Watch on YouTube">
 </a>
@@ -17,13 +17,11 @@
 --> Info: I created this game to challenge myself, as I only used my prior projects and a online search of the rules.
 
 **Added Features:**
-
 - A (basically) infinite map
 - Effizient code
 - Custom starting
 
 **In Future:**
-
 - More customization-options
 - Zoom
 - Configure Cells while running
