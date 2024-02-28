@@ -18,7 +18,7 @@
 
 **Added Features:**
 - A (basically) infinite map
-- Effizient code
+- Efficient code
 - Custom starting
 
 **In Future:**
