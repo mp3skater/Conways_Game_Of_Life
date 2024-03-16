@@ -26,7 +26,7 @@
 - Zoom
 - Configure Cells while running
 
-[➜ For more details look the Wikipedia-page](https://github.com/Tschipcraft/more_mobs/wiki)
+[➜ For more details look the en-Wikipedia-page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 Glider                                                                                                    |  Game paused
 :--------------------------------------------------------------------------------------------------------:|:-------------------------:
