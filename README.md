@@ -19,7 +19,7 @@
 **Added Features:**
 - A (basically) infinite map
 - Efficient code
-- Custom starting
+- Custom starting position
 
 **In Future:**
 - More customization-options
